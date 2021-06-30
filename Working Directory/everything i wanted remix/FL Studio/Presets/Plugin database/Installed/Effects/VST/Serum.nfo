@@ -1,0 +1,16 @@
+fileversion=2
+ps_name=Serum
+ps_presetfilename=%FLPluginDBPath%\Installed\Effects\VST\Serum.fst
+ps_files=2
+ps_file_name_0=Serum_x64
+ps_file_filename_0=D:\Plugins\Serum\Serum_x64.dll
+ps_file_plugclass_0=0
+ps_file_bitsize_0=64
+ps_file_date_0=4676259908484300557
+ps_file_size_0=9855488
+ps_file_name_1=Serum
+ps_file_filename_1=D:\Plugins\Serum\Serum.dll
+ps_file_plugclass_1=0
+ps_file_bitsize_1=32
+ps_file_date_1=4676259907389879261
+ps_file_size_1=8187904

@@ -1,0 +1,16 @@
+fileversion=2
+ps_name=Cthulhu
+ps_presetfilename=%FLPluginDBPath%\Installed\Effects\VST\Cthulhu.fst
+ps_files=2
+ps_file_name_0=Cthulhu_x64
+ps_file_filename_0=D:\Plugins\Cthulhu\Cthulhu_x64.dll
+ps_file_plugclass_0=0
+ps_file_bitsize_0=64
+ps_file_date_0=4676119191185472978
+ps_file_size_0=1865216
+ps_file_name_1=Cthulhu
+ps_file_filename_1=D:\Plugins\Cthulhu\Cthulhu.dll
+ps_file_plugclass_1=0
+ps_file_bitsize_1=32
+ps_file_date_1=4676119191220469008
+ps_file_size_1=1744896

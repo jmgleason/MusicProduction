@@ -1,0 +1,10 @@
+fileversion=2
+ps_name=OTT_x64 [64bit]
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST\OTT_x64 [64bit].fst
+ps_files=1
+ps_file_name_0=OTT_x64
+ps_file_filename_0=C:\Program Files (x86)\VstPlugins\OTT\OTT_x64.dll
+ps_file_plugclass_0=0
+ps_file_bitsize_0=64
+ps_file_date_0=4676009338460164345
+ps_file_size_0=456192

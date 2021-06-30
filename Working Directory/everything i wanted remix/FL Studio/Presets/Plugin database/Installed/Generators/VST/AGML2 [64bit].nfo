@@ -1,0 +1,10 @@
+fileversion=2
+ps_name=AGML2 [64bit]
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST\AGML2 [64bit].fst
+ps_files=1
+ps_file_name_0=AGML2
+ps_file_filename_0=D:\Plugins\Ample Guitar\Ample Sound\AGML2.dll
+ps_file_plugclass_0=0
+ps_file_bitsize_0=64
+ps_file_date_0=4676070835306737755
+ps_file_size_0=9912320

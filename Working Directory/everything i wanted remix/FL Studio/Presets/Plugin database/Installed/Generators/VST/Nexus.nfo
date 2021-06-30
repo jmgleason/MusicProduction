@@ -1,0 +1,10 @@
+fileversion=2
+ps_name=Nexus
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST\Nexus.fst
+ps_files=1
+ps_file_name_0=Nexus
+ps_file_filename_0=C:\Program Files (x86)\VstPlugins\Nexus.dll
+ps_file_plugclass_0=0
+ps_file_bitsize_0=32
+ps_file_date_0=4675745484280343211
+ps_file_size_0=5811712

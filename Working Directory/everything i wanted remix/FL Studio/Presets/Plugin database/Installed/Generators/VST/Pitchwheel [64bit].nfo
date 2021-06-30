@@ -1,0 +1,10 @@
+fileversion=2
+ps_name=Pitchwheel [64bit]
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST\Pitchwheel [64bit].fst
+ps_files=1
+ps_file_name_0=Pitchwheel
+ps_file_filename_0=D:\Plugins\PitchWheel\Pitchwheel.dll
+ps_file_plugclass_0=0
+ps_file_bitsize_0=64
+ps_file_date_0=4676254783423903073
+ps_file_size_0=5848576

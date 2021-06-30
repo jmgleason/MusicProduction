@@ -1,0 +1,10 @@
+fileversion=2
+ps_name=Kickstart-64bit [64bit]
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST\Kickstart-64bit [64bit].fst
+ps_files=1
+ps_file_name_0=Kickstart-64bit
+ps_file_filename_0=C:\Program Files (x86)\VstPlugins\Kickstart-64bit.dll
+ps_file_plugclass_0=0
+ps_file_bitsize_0=64
+ps_file_date_0=4675946969786133163
+ps_file_size_0=4420608

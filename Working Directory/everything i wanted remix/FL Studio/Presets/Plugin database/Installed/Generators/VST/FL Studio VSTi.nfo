@@ -1,0 +1,16 @@
+fileversion=2
+ps_name=FL Studio VSTi
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST\FL Studio VSTi.fst
+ps_files=2
+ps_file_name_0=FL Studio VSTi
+ps_file_filename_0=C:\Program Files\Common Files\VST2\FL Studio VSTi.dll
+ps_file_plugclass_0=0
+ps_file_bitsize_0=64
+ps_file_date_0=4676178203469820626
+ps_file_size_0=3259904
+ps_file_name_1=FL Studio VSTi
+ps_file_filename_1=C:\Program Files (x86)\VstPlugins\FL Studio VSTi.dll
+ps_file_plugclass_1=0
+ps_file_bitsize_1=32
+ps_file_date_1=4676178203450731883
+ps_file_size_1=2127632
