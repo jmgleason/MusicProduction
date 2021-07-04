@@ -1,0 +1,63 @@
+T:\Data\User Data\FL Studio\Support\Logs\Startup\Startup 2021-02-08_192049.log
+HostVersion=1 Flags=00000000
+BeforeRunning
+Starting at 7:20:49 PM32Bit addressing mode3DNow! support: noSSE    support: yesSSE2   support: yesSSE3   support: yesSSSE3  support: yesAVX    support: yesTouchscreen not availableMain GUI scaling factor: 1.5 (system set to 144PPI)Temporary folder for this session:C:\Users\JOSEPH~1\AppData\Local\Temp\Image-Line\{577327DF-52CC-47F6-929A-9429A0447D9C}\---
+ReadIniFile
+Animation timer set to 16ms, vsync disabled
+Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+Mixer threading map rebuilt: 1 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+Opening ASIO driver: Focusrite USB 2.0 Audio Driver version 1Buffer length: 442 framesIn/out latency: 943/1385 framesTime out: 19ms (837 frames)---
+Opening MIDI output devices
+Opening MIDI input devices
+Loading project: version 4.5.4
+---
+Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+Mixer threading map rebuilt: 2 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 2: 1 unit(s)      Unit 1: track(s) 0---
+Loading project: version 9.6.0
+---
+Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+Mixer threading map rebuilt: 3 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99   Layer 2: 1 unit(s)      Unit 1: track(s) 100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 3: 1 unit(s)      Unit 1: track(s) 0---
+ReadIniFile - end
+ProcessFirstTimeStuff
+Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+Mixer threading map rebuilt: 2 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 2: 1 unit(s)      Unit 1: track(s) 0---
+Loading project: version 20.0.2.477
+Threaded generator(s): 1
+Locating file  Cymatics - Roses Clap 5.wav in user data folder
+File Cymatics - Roses Clap 5.wav could not be found in base folders, now starting a search in all extra folders
+Threaded generator(s): 2
+Threaded generator(s): 1
+Wrapper says: Bridged generator: Serum_x64
+Wrapper says: DoConnected
+Threaded generator(s): 2
+Threaded generator(s): 3
+Threaded generator(s): 4
+Threaded generator(s): 3
+Wrapper says: Create VST plugin: file="T:\Plugins\Nexus\Program Files (x86)\Nexus.dll" id=NEXU
+Threaded generator(s): 4
+Threaded generator(s): 5
+Threaded generator(s): 4
+Wrapper says: Create VST plugin: file="T:\Plugins\Nexus\Program Files (x86)\Nexus.dll" id=NEXU
+Threaded generator(s): 5
+Locating file  Cymatics - Sanctuary Kick 2 - F#.wav in user data folder
+File Cymatics - Sanctuary Kick 2 - F#.wav could not be found in base folders, now starting a search in all extra folders
+Locating file  Cymatics - Sanctuary Clap 3.wav in user data folder
+File Cymatics - Sanctuary Clap 3.wav could not be found in base folders, now starting a search in all extra folders
+Locating file  Cymatics - Sanctuary FX 2 - Long White Noise Up.wav in user data folder
+File Cymatics - Sanctuary FX 2 - Long White Noise Up.wav could not be found in base folders, now starting a search in all extra folders
+Wrapper says: Bridged effect: OTT_x64
+Wrapper says: DoConnected
+Wrapper says: Bridged effect: OTT_x64
+Wrapper says: DoConnected
+Wrapper says: Bridged effect: OTT_x64
+Wrapper says: DoConnected
+---
+OTT says: "OTT" crashed while processing. Disabled.
+OTT says: "OTT" crashed while processing. Disabled.
+OTT says: "OTT" crashed while processing. Disabled.
+Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+Mixer threading map rebuilt: 2 layer(s)   Layer 1: 5 unit(s)      Unit 1: track(s) 1,2,3      Unit 2: track(s) 4      Unit 3: track(s) 5      Unit 4: track(s) 6      Unit 5: track(s) 7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 2: 1 unit(s)      Unit 1: track(s) 0---
+Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+Mixer threading map rebuilt: 2 layer(s)   Layer 1: 5 unit(s)      Unit 1: track(s) 1,2,3      Unit 2: track(s) 4      Unit 3: track(s) 5      Unit 4: track(s) 6      Unit 5: track(s) 7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 2: 1 unit(s)      Unit 1: track(s) 0---
+Opening ASIO driver: Focusrite USB 2.0 Audio Driver version 1Buffer length: 442 framesIn/out latency: 943/1385 framesTime out: 19ms (837 frames)---
+BeforeRunning - end

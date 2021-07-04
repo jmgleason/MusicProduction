@@ -1,0 +1,226 @@
+C:\Users\Joseph Gleason\Documents\Image-Line\Data\FL Studio\Support\Logs\Startup\Startup 2020-04-14_001330.log
+HostVersion=1 Flags=00000000
+BeforeRunning
+Starting at 12:13:30 AM32Bit addressing mode3DNow! support: noSSE    support: yesSSE2   support: yesSSE3   support: yesSSSE3  support: yesAVX    support: yesTouchscreen not availableMain GUI scaling factor: 1.5 (system set to 144PPI)Temporary folder for this session:C:\Users\JOSEPH~1\AppData\Local\Temp\Image-Line\{338378FA-1846-430B-8933-A87D7DAD46FD}\---
+ReadIniFile
+Animation timer set to 16ms, vsync disabled
+Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+Mixer threading map rebuilt: 1 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+Opening MIDI output devices
+Opening MIDI input devices
+Loading project: version 4.5.4
+---
+Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+Mixer threading map rebuilt: 2 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 2: 1 unit(s)      Unit 1: track(s) 0---
+Loading project: version 9.6.0
+---
+Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+Mixer threading map rebuilt: 3 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99   Layer 2: 1 unit(s)      Unit 1: track(s) 100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 3: 1 unit(s)      Unit 1: track(s) 0---
+ReadIniFile - end
+ProcessFirstTimeStuff
+Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+Mixer threading map rebuilt: 2 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 2: 1 unit(s)      Unit 1: track(s) 0---
+Loading project: version 11.0.0
+Threaded generator(s): 1
+Threaded generator(s): 2
+Threaded generator(s): 3
+Threaded generator(s): 4
+Threaded generator(s): 5
+Locating file  6-8-16_Insert 1_5.wav in user data folder
+File 6-8-16_Insert 1_5.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_Insert 1_5.wav
+Locating file  6-8-16_REC_2.wav in user data folder
+File 6-8-16_REC_2.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_2.wav
+Locating file  6-8-16_REC_3.wav in user data folder
+File 6-8-16_REC_3.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_3.wav
+Locating file  6-8-16_REC_4.wav in user data folder
+File 6-8-16_REC_4.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_4.wav
+Locating file  6-8-16_REC_8.wav in user data folder
+File 6-8-16_REC_8.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_8.wav
+Locating file  6-8-16_REC_13.wav in user data folder
+File 6-8-16_REC_13.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_13.wav
+Locating file  6-8-16_REC_14.wav in user data folder
+File 6-8-16_REC_14.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_14.wav
+Locating file  6-8-16_REC_14.wav in user data folder
+File 6-8-16_REC_14.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_14.wav
+Locating file  6-8-16_REC_22.wav in user data folder
+File 6-8-16_REC_22.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_22.wav
+Locating file  6-8-16_REC_28.wav in user data folder
+File 6-8-16_REC_28.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_28.wav
+Locating file  6-8-16_REC_33.wav in user data folder
+File 6-8-16_REC_33.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_33.wav
+Locating file  6-8-16_REC_42.wav in user data folder
+File 6-8-16_REC_42.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_42.wav
+Locating file  6-8-16_REC_55.wav in user data folder
+File 6-8-16_REC_55.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_55.wav
+Locating file  6-8-16_REC_58.wav in user data folder
+File 6-8-16_REC_58.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_58.wav
+Locating file  6-8-16_REC_61.wav in user data folder
+File 6-8-16_REC_61.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_61.wav
+Locating file  6-8-16_REC_62.wav in user data folder
+File 6-8-16_REC_62.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_62.wav
+Locating file  6-8-16_REC_63.wav in user data folder
+File 6-8-16_REC_63.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_63.wav
+Locating file  6-8-16_REC_65.wav in user data folder
+File 6-8-16_REC_65.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_65.wav
+Locating file  6-8-16_REC_66.wav in user data folder
+File 6-8-16_REC_66.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_66.wav
+Locating file  6-8-16_REC_67.wav in user data folder
+File 6-8-16_REC_67.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\6-8-16_REC_67.wav
+Locating file  Turn Up With You_REC_3.wav in user data folder
+File Turn Up With You_REC_3.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_3.wav
+Locating file  Turn Up With You_REC_4.wav in user data folder
+File Turn Up With You_REC_4.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_4.wav
+Locating file  Turn Up With You_REC_5.wav in user data folder
+File Turn Up With You_REC_5.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_5.wav
+Locating file  Turn Up With You_REC_6.wav in user data folder
+File Turn Up With You_REC_6.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_6.wav
+Locating file  Turn Up With You_REC_7.wav in user data folder
+File Turn Up With You_REC_7.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_7.wav
+Locating file  Turn Up With You_REC_9.wav in user data folder
+File Turn Up With You_REC_9.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_9.wav
+Locating file  Turn Up With You_REC_12.wav in user data folder
+File Turn Up With You_REC_12.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_12.wav
+Locating file  Turn Up With You_REC_13.wav in user data folder
+File Turn Up With You_REC_13.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_13.wav
+Locating file  Turn Up With You_REC_13.wav in user data folder
+File Turn Up With You_REC_13.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Sliced beats\Turn Up With You_REC_13.wav
+Locating file  Turn Up With You_REC_14.wav in user data folder
+File Turn Up With You_REC_14.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_14.wav
+Locating file  Turn Up With You_REC_17.wav in user data folder
+File Turn Up With You_REC_17.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_17.wav
+Locating file  Turn Up With You_REC_17.wav in user data folder
+File Turn Up With You_REC_17.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Sliced beats\Turn Up With You_REC_17.wav
+Locating file  Turn Up With You_REC_20.wav in user data folder
+File Turn Up With You_REC_20.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_20.wav
+Locating file  Turn Up With You_REC_20.wav in user data folder
+File Turn Up With You_REC_20.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Sliced beats\Turn Up With You_REC_20.wav
+Locating file  Turn Up With You_REC_22.wav in user data folder
+File Turn Up With You_REC_22.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_22.wav
+Locating file  Turn Up With You_REC_22.wav in user data folder
+File Turn Up With You_REC_22.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Sliced beats\Turn Up With You_REC_22.wav
+Locating file  Turn Up With You_REC_23.wav in user data folder
+File Turn Up With You_REC_23.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Sliced beats\Turn Up With You_REC_23.wav
+Locating file  Turn Up With You_REC_23.wav in user data folder
+File Turn Up With You_REC_23.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_23.wav
+Locating file  Turn Up With You_REC_24.wav in user data folder
+File Turn Up With You_REC_24.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Sliced beats\Turn Up With You_REC_24.wav
+Locating file  Turn Up With You_REC_7.wav in user data folder
+File Turn Up With You_REC_7.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Sliced beats\Turn Up With You_REC_7.wav
+Locating file  Turn Up With You_REC_9.wav in user data folder
+File Turn Up With You_REC_9.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Sliced beats\Turn Up With You_REC_9.wav
+Locating file  6-8-16_REC_4.wav in user data folder
+File 6-8-16_REC_4.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Sliced beats\6-8-16_REC_4.wav
+Locating file  6-8-16_REC_67.wav in user data folder
+File 6-8-16_REC_67.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Sliced beats\6-8-16_REC_67.wav
+Locating file  Turn Up With You_Electric Guitar.wav in user data folder
+File Turn Up With You_Electric Guitar.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_Electric Guitar.wav
+Locating file  Turn Up With You_Electric Guitar_2.wav in user data folder
+File Turn Up With You_Electric Guitar_2.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_Electric Guitar_2.wav
+Locating file  Turn Up With You_Electric Guitar_3.wav in user data folder
+File Turn Up With You_Electric Guitar_3.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_Electric Guitar_3.wav
+Locating file  Turn Up With You_Electric Guitar_5.wav in user data folder
+File Turn Up With You_Electric Guitar_5.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_Electric Guitar_5.wav
+Locating file  Turn Up With You_Electric Guitar_6.wav in user data folder
+File Turn Up With You_Electric Guitar_6.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_Electric Guitar_6.wav
+Locating file  Turn Up With You_Electric Guitar_7.wav in user data folder
+File Turn Up With You_Electric Guitar_7.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_Electric Guitar_7.wav
+Locating file  Turn Up With You_Electric Guitar_8.wav in user data folder
+File Turn Up With You_Electric Guitar_8.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_Electric Guitar_8.wav
+Locating file  Turn Up With You_Electric Guitar_9.wav in user data folder
+File Turn Up With You_Electric Guitar_9.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_Electric Guitar_9.wav
+Locating file  Turn Up With You_Electric Guitar_10.wav in user data folder
+File Turn Up With You_Electric Guitar_10.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_Electric Guitar_10.wav
+Locating file  Turn Up With You_Electric Guitar_11.wav in user data folder
+File Turn Up With You_Electric Guitar_11.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_Electric Guitar_11.wav
+Locating file  Turn Up With You_REC_24.wav in user data folder
+File Turn Up With You_REC_24.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_24.wav
+Locating file  Turn Up With You_REC_25.wav in user data folder
+File Turn Up With You_REC_25.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_25.wav
+Locating file  Turn Up With You_REC_26.wav in user data folder
+File Turn Up With You_REC_26.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_26.wav
+Locating file  Turn Up With You_REC_26.wav in user data folder
+File Turn Up With You_REC_26.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Sliced beats\Turn Up With You_REC_26.wav
+Locating file  Turn Up With You_REC_29.wav in user data folder
+File Turn Up With You_REC_29.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_29.wav
+Locating file  Turn Up With You_REC_31.wav in user data folder
+File Turn Up With You_REC_31.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Recorded\Turn Up With You_REC_31.wav
+Locating file  Turn Up With You_REC_31.wav in user data folder
+File Turn Up With You_REC_31.wav could not be found in base folders, now starting a search in all extra folders
+Sample not found: %FLStudioData%\Patches\Sliced beats\Turn Up With You_REC_31.wav
+Locating file  6-8-16_Insert 1_9.wav in user data folder
+File 6-8-16_Insert 1_9.wav could not be found in base folders, now starting a search in all extra folders
+Locating file  6-8-16_REC_28.wav in user data folder
+File 6-8-16_REC_28.wav could not be found in base folders, now starting a search in all extra folders
+Locating file  Turn Up With You_REC_13.wav in user data folder
+File Turn Up With You_REC_13.wav could not be found in base folders, now starting a search in all extra folders
+Locating file  Turn Up With You_REC_17.wav in user data folder
+File Turn Up With You_REC_17.wav could not be found in base folders, now starting a search in all extra folders
+Locating file  Turn Up With You_REC_22.wav in user data folder
+File Turn Up With You_REC_22.wav could not be found in base folders, now starting a search in all extra folders
+Locating file  Turn Up With You_REC_31.wav in user data folder
+File Turn Up With You_REC_31.wav could not be found in base folders, now starting a search in all extra folders
+---
+Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+Mixer threading map rebuilt: 3 layer(s)   Layer 1: 12 unit(s)      Unit 1: track(s) 1,2      Unit 2: track(s) 3      Unit 3: track(s) 4      Unit 4: track(s) 5      Unit 5: track(s) 6      Unit 6: track(s) 7      Unit 7: track(s) 8      Unit 8: track(s) 9      Unit 9: track(s) 10      Unit 10: track(s) 11      Unit 11: track(s) 12      Unit 12: track(s) 13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99   Layer 2: 1 unit(s)      Unit 1: track(s) 100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 3: 1 unit(s)      Unit 1: track(s) 0---
+Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+Mixer threading map rebuilt: 3 layer(s)   Layer 1: 12 unit(s)      Unit 1: track(s) 1,2      Unit 2: track(s) 3      Unit 3: track(s) 4      Unit 4: track(s) 5      Unit 5: track(s) 6      Unit 6: track(s) 7      Unit 7: track(s) 8      Unit 8: track(s) 9      Unit 9: track(s) 10      Unit 10: track(s) 11      Unit 11: track(s) 12      Unit 12: track(s) 13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99   Layer 2: 1 unit(s)      Unit 1: track(s) 100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 3: 1 unit(s)      Unit 1: track(s) 0---
+BeforeRunning - end
