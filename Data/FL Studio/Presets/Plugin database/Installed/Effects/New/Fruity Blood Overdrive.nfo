@@ -1,0 +1,17 @@
+fileversion=2
+iconindex=48
+color=$40B6F6
+tip=VST / 32 bit
+ps_name=Fruity Blood Overdrive
+ps_presetfilename=%FLPluginDBPath%\Installed\Effects\VST\Fruity Blood Overdrive.fst
+ps_files=1
+ps_file_name_0=Fruity Blood Overdrive
+ps_file_filename_0=%FLPath%\Plugins\VST\Fruity Blood Overdrive.dll
+ps_file_plugclass_0=0
+ps_file_type_0=1
+ps_file_bitsize_0=32
+ps_file_magic_0=1112297284
+ps_file_date_0=4676173380514241286
+ps_file_size_0=93496
+ps_file_scanflags_0=1
+ps_file_category_0=effect
